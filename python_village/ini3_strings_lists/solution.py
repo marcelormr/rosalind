@@ -3,5 +3,5 @@ a = 7
 b = 16
 c = 148
 d = 162
-slice = s[a:b+1] + ' ' + s[c:d+1]
-print(slice)
+result = s[a:b+1] + ' ' + s[c:d+1]
+print(result)
